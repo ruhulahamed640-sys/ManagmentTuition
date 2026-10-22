@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="brand_primary">#0F766E</color>
+    <color name="brand_primary_dark">#115E59</color>
+    <color name="brand_accent">#0D9488</color>
+    <color name="brand_surface">#F8FAFC</color>
+    <color name="brand_card">#FFFFFF</color>
+    <color name="text_primary">#0F172A</color>
+    <color name="text_secondary">#475569</color>
+    <color name="status_paid_bg">#DCFCE7</color>
+    <color name="status_paid_text">#166534</color>
+    <color name="status_due_bg">#FEE2E2</color>
+    <color name="status_due_text">#991B1B</color>
+    <color name="status_partial_bg">#FEF3C7</color>
+    <color name="status_partial_text">#92400E</color>
+    <color name="white">#FFFFFF</color>
+</resources>

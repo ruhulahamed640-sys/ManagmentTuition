@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ManagementTution</string>
+    <string name="app_subtitle">Tuition Center, Batch, Attendance &amp; Fee Manager</string>
+    <string name="nav_dashboard">Dashboard</string>
+    <string name="nav_students">Students</string>
+    <string name="nav_attendance">Attendance</string>
+    <string name="nav_fees">Fees &amp; Ledger</string>
+    <string name="btn_sync_api">Sync API</string>
+    <string name="btn_add_student">+ Add Student</string>
+    <string name="btn_add_batch">+ New Batch</string>
+    <string name="btn_record_fee">+ Record Fee</string>
+    <string name="btn_mark_all_present">Mark All Present</string>
+    <string name="hint_search_students">Search student name, admission no, or batch...</string>
+    <string name="empty_students_message">No matching student records found.</string>
+</resources>
